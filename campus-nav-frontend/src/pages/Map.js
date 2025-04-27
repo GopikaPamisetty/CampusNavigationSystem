@@ -86,7 +86,7 @@ const RoutingMachine = ({ source, destination, travelMode }) => {
         <div
           style={{
             position: "absolute",
-            top: 70,
+            top: 125,
             left: "50%",
             transform: "translateX(-50%)",
             background: "#ffffffee",

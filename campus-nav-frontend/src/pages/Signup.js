@@ -30,7 +30,7 @@ const Signup = () => {
 
     try {
      // const response = await fetch("http://localhost:5000/api/auth/signup", {
-      const response = await fetch("https://campus-navigation-system-backend.onrender.com/api/auth/signup", {  // Updated URL
+      const response = await fetch(https://campusnavigationsystem.onrender.com/api/auth/signup", {  // Updated URL
       
      method: "POST",
         headers: { 
